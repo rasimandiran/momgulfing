@@ -50,7 +50,7 @@ MomGulfing is a simple momentum and candlestick pattern based trading strategy. 
 - Default [pyramiding](https://www.investopedia.com/terms/p/pyramiding.asp) is 3
 - Update take profit/stop loss levels at each signal.
 
-*For more details check [momgulfing.pine]() file*
+*For more details check [momgulfing.pine](https://github.com/rasimandiran/momgulfing/blob/main/momgulfing.pine) file*
 
 ## Backtests
 *Default parameters are used in all backtests, on daily charts. Backtest period: 2021-01-01 -> 2022-12-31*
